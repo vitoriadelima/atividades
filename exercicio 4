@@ -1,0 +1,22 @@
+Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 21/11/2022
+Var
+// Seção de Declarações das variáveis 
+     galaxia : real
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+ escreval ("digite a distancia em metros")
+ leia (galaxia)
+ escreval ("a distancia de ",galaxia," km corresponde a : ", galaxia *1000)
+ escreval ("a distancia de ",galaxia," hm corresponde a : ", galaxia *100)
+ escreval ("a distancia de ",galaxia," dam corresponde a : ", galaxia *10)
+escreval ("a distancia de ",galaxia," dm corresponde a : ", galaxia /10)
+escreval ("a distancia de ",galaxia," cm corresponde a : ", galaxia /100)
+escreval ("a distancia de ",galaxia," mn corresponde a : ", galaxia /1000)
+
+Fimalgoritmo
